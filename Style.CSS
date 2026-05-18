@@ -1,3 +1,5 @@
+<head>
+ <tile> Portfolio </title>
 /* CERTIFICATES SECTION */
 
 .certificates-section {
@@ -37,3 +39,4 @@
 .certificate-card a:hover {
   opacity: 0.9;
 }
+</head>
